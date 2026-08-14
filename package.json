@@ -1,0 +1,16 @@
+{
+    "name": "github_actions_lab",
+    "version": "1.0.0",
+    "description": "This is a demo to setup GitHub Actions for the Workforce Readiness Lab.",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest run"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "vitest": "^4.1.10"
+    }
+}
